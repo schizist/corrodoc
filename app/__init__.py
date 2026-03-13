@@ -1,0 +1,1 @@
+"""CorroDoc application package."""
