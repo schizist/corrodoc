@@ -1,0 +1,81 @@
+# -------------------------
+# Python
+# -------------------------
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# -------------------------
+# Logs
+# -------------------------
+
+*.log
+
+# -------------------------
+# IDE / Editor
+# -------------------------
+
+.vscode/
+.idea/
+
+# -------------------------
+# OS files
+# -------------------------
+
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Project specific
+# -------------------------
+
+# Generated reports
+outputs/
+
+# Temporary processing files
+tmp/
+temp/
+
+# Test PDFs or sensitive client reports
+test_reports/
+sample_inputs/
+
+# Large files
+*.pdf
+*.docx
+
+# Excel scratch sheets
+*.xlsx
+
+# Optional: keep templates but ignore generated copies
+!templates/
+
+# -------------------------
+# Python tooling
+# -------------------------
+
+.mypy_cache/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# -------------------------
+# Environment variables
+# -------------------------
+
+.env
+
+geotech_reports/
